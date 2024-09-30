@@ -1,0 +1,436 @@
+{
+    "version": "2.3.9",
+    "fields": [
+        "title",
+        "text"
+    ],
+    "fieldVectors": [
+        [
+            "title/documentation/test-page-number/",
+            [
+                0,
+                0.097,
+                1,
+                0.319,
+                2,
+                0.641
+            ]
+        ],
+        [
+            "text/documentation/test-page-number/",
+            [
+                0,
+                0.077,
+                1,
+                0.253,
+                2,
+                0.509,
+                3,
+                0.885,
+                4,
+                0.885,
+                5,
+                0.885,
+                6,
+                0.885,
+                7,
+                0.509
+            ]
+        ],
+        [
+            "title/documentation/test-page-2/",
+            [
+                0,
+                0.097,
+                1,
+                0.319,
+                8,
+                0.641
+            ]
+        ],
+        [
+            "text/documentation/test-page-2/",
+            [
+                0,
+                0.12,
+                1,
+                0.392,
+                8,
+                0.788
+            ]
+        ],
+        [
+            "title/documentation/page-3/",
+            [
+                1,
+                0.376,
+                9,
+                0.755
+            ]
+        ],
+        [
+            "text/documentation/page-3/",
+            [
+                1,
+                0.353,
+                7,
+                0.71,
+                9,
+                0.71,
+                10,
+                1.234
+            ]
+        ],
+        [
+            "title/documentation/page-4/",
+            [
+                1,
+                0.376,
+                11,
+                0.755
+            ]
+        ],
+        [
+            "text/documentation/page-4/",
+            [
+                1,
+                0.44,
+                11,
+                0.885
+            ]
+        ]
+    ],
+    "invertedIndex": [
+        [
+            "2",
+            {
+                "_index": 8,
+                "title": {
+                    "documentation/test-page-2/": {
+                        "position": [
+                            [
+                                10,
+                                1
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "documentation/test-page-2/": {
+                        "position": [
+                            [
+                                10,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "3",
+            {
+                "_index": 9,
+                "title": {
+                    "documentation/page-3/": {
+                        "position": [
+                            [
+                                5,
+                                1
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "documentation/page-3/": {
+                        "position": [
+                            [
+                                5,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "4",
+            {
+                "_index": 11,
+                "title": {
+                    "documentation/page-4/": {
+                        "position": [
+                            [
+                                5,
+                                1
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "documentation/page-4/": {
+                        "position": [
+                            [
+                                5,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "dfgdfgdf",
+            {
+                "_index": 3,
+                "title": {},
+                "text": {
+                    "documentation/test-page-number/": {
+                        "position": [
+                            [
+                                17,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "dgsdfsf",
+            {
+                "_index": 10,
+                "title": {},
+                "text": {
+                    "documentation/page-3/": {
+                        "position": [
+                            [
+                                7,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "f",
+            {
+                "_index": 4,
+                "title": {},
+                "text": {
+                    "documentation/test-page-number/": {
+                        "position": [
+                            [
+                                26,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "gdfg",
+            {
+                "_index": 5,
+                "title": {},
+                "text": {
+                    "documentation/test-page-number/": {
+                        "position": [
+                            [
+                                28,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "number",
+            {
+                "_index": 2,
+                "title": {
+                    "documentation/test-page-number/": {
+                        "position": [
+                            [
+                                10,
+                                6
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "documentation/test-page-number/": {
+                        "position": [
+                            [
+                                10,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "page",
+            {
+                "_index": 1,
+                "title": {
+                    "documentation/test-page-number/": {
+                        "position": [
+                            [
+                                5,
+                                4
+                            ]
+                        ]
+                    },
+                    "documentation/test-page-2/": {
+                        "position": [
+                            [
+                                5,
+                                4
+                            ]
+                        ]
+                    },
+                    "documentation/page-3/": {
+                        "position": [
+                            [
+                                0,
+                                4
+                            ]
+                        ]
+                    },
+                    "documentation/page-4/": {
+                        "position": [
+                            [
+                                0,
+                                4
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "documentation/test-page-number/": {
+                        "position": [
+                            [
+                                5,
+                                4
+                            ]
+                        ]
+                    },
+                    "documentation/test-page-2/": {
+                        "position": [
+                            [
+                                5,
+                                4
+                            ]
+                        ]
+                    },
+                    "documentation/page-3/": {
+                        "position": [
+                            [
+                                0,
+                                4
+                            ]
+                        ]
+                    },
+                    "documentation/page-4/": {
+                        "position": [
+                            [
+                                0,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "sdf",
+            {
+                "_index": 7,
+                "title": {},
+                "text": {
+                    "documentation/test-page-number/": {
+                        "position": [
+                            [
+                                39,
+                                3
+                            ]
+                        ]
+                    },
+                    "documentation/page-3/": {
+                        "position": [
+                            [
+                                15,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "sdfdf",
+            {
+                "_index": 6,
+                "title": {},
+                "text": {
+                    "documentation/test-page-number/": {
+                        "position": [
+                            [
+                                33,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "test",
+            {
+                "_index": 0,
+                "title": {
+                    "documentation/test-page-number/": {
+                        "position": [
+                            [
+                                0,
+                                4
+                            ]
+                        ]
+                    },
+                    "documentation/test-page-2/": {
+                        "position": [
+                            [
+                                0,
+                                4
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "documentation/test-page-number/": {
+                        "position": [
+                            [
+                                0,
+                                4
+                            ]
+                        ]
+                    },
+                    "documentation/test-page-2/": {
+                        "position": [
+                            [
+                                0,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ]
+    ],
+    "pipeline": []
+}
