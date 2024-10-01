@@ -1,4 +1,8 @@
 {
+    "documentation/test-page-3/": {
+        "title": "Test Page 3",
+        "text": "Test Page 3 test dfsdjh  sdfsdf"
+    },
     "documentation/test-page-1/": {
         "title": "Test Page 1",
         "text": "Page 1 This is my changes..."
@@ -6,9 +10,5 @@
     "documentation/test-page-2/": {
         "title": "Test Page 2",
         "text": "Test Page 2"
-    },
-    "documentation/test-page-3/": {
-        "title": "Test Page 3",
-        "text": "Test Page 3"
     }
 }

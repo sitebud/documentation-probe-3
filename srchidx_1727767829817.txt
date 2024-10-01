@@ -6,7 +6,7 @@
     ],
     "fieldVectors": [
         [
-            "title/documentation/test-page-1/",
+            "title/documentation/test-page-3/",
             [
                 0,
                 0.241,
@@ -17,20 +17,46 @@
             ]
         ],
         [
+            "text/documentation/test-page-3/",
+            [
+                0,
+                0.314,
+                1,
+                0.301,
+                2,
+                0.434,
+                3,
+                0.907,
+                4,
+                0.907
+            ]
+        ],
+        [
+            "title/documentation/test-page-1/",
+            [
+                0,
+                0.241,
+                1,
+                0.325,
+                5,
+                0.47
+            ]
+        ],
+        [
             "text/documentation/test-page-1/",
             [
                 1,
-                0.27,
-                2,
-                0.39,
-                3,
-                0.814,
-                4,
-                0.814,
+                0.301,
                 5,
-                0.814,
+                0.434,
                 6,
-                0.814
+                0.907,
+                7,
+                0.907,
+                8,
+                0.907,
+                9,
+                0.907
             ]
         ],
         [
@@ -40,7 +66,7 @@
                 0.241,
                 1,
                 0.325,
-                7,
+                10,
                 0.47
             ]
         ],
@@ -48,33 +74,11 @@
             "text/documentation/test-page-2/",
             [
                 0,
-                0.269,
+                0.288,
                 1,
-                0.362,
-                7,
-                0.524
-            ]
-        ],
-        [
-            "title/documentation/test-page-3/",
-            [
-                0,
-                0.241,
-                1,
-                0.325,
-                8,
-                0.47
-            ]
-        ],
-        [
-            "text/documentation/test-page-3/",
-            [
-                0,
-                0.269,
-                1,
-                0.362,
-                8,
-                0.524
+                0.389,
+                10,
+                0.562
             ]
         ]
     ],
@@ -82,7 +86,7 @@
         [
             "1",
             {
-                "_index": 2,
+                "_index": 5,
                 "title": {
                     "documentation/test-page-1/": {
                         "position": [
@@ -108,7 +112,7 @@
         [
             "2",
             {
-                "_index": 7,
+                "_index": 10,
                 "title": {
                     "documentation/test-page-2/": {
                         "position": [
@@ -134,7 +138,7 @@
         [
             "3",
             {
-                "_index": 8,
+                "_index": 2,
                 "title": {
                     "documentation/test-page-3/": {
                         "position": [
@@ -160,7 +164,7 @@
         [
             "changes...",
             {
-                "_index": 6,
+                "_index": 9,
                 "title": {},
                 "text": {
                     "documentation/test-page-1/": {
@@ -175,9 +179,26 @@
             }
         ],
         [
+            "dfsdjh",
+            {
+                "_index": 3,
+                "title": {},
+                "text": {
+                    "documentation/test-page-3/": {
+                        "position": [
+                            [
+                                17,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
             "is",
             {
-                "_index": 4,
+                "_index": 7,
                 "title": {},
                 "text": {
                     "documentation/test-page-1/": {
@@ -194,7 +215,7 @@
         [
             "my",
             {
-                "_index": 5,
+                "_index": 8,
                 "title": {},
                 "text": {
                     "documentation/test-page-1/": {
@@ -213,6 +234,14 @@
             {
                 "_index": 1,
                 "title": {
+                    "documentation/test-page-3/": {
+                        "position": [
+                            [
+                                5,
+                                4
+                            ]
+                        ]
+                    },
                     "documentation/test-page-1/": {
                         "position": [
                             [
@@ -222,14 +251,6 @@
                         ]
                     },
                     "documentation/test-page-2/": {
-                        "position": [
-                            [
-                                5,
-                                4
-                            ]
-                        ]
-                    },
-                    "documentation/test-page-3/": {
                         "position": [
                             [
                                 5,
@@ -239,6 +260,14 @@
                     }
                 },
                 "text": {
+                    "documentation/test-page-3/": {
+                        "position": [
+                            [
+                                5,
+                                4
+                            ]
+                        ]
+                    },
                     "documentation/test-page-1/": {
                         "position": [
                             [
@@ -248,14 +277,6 @@
                         ]
                     },
                     "documentation/test-page-2/": {
-                        "position": [
-                            [
-                                5,
-                                4
-                            ]
-                        ]
-                    },
-                    "documentation/test-page-3/": {
                         "position": [
                             [
                                 5,
@@ -267,10 +288,35 @@
             }
         ],
         [
+            "sdfsdf",
+            {
+                "_index": 4,
+                "title": {},
+                "text": {
+                    "documentation/test-page-3/": {
+                        "position": [
+                            [
+                                25,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
             "test",
             {
                 "_index": 0,
                 "title": {
+                    "documentation/test-page-3/": {
+                        "position": [
+                            [
+                                0,
+                                4
+                            ]
+                        ]
+                    },
                     "documentation/test-page-1/": {
                         "position": [
                             [
@@ -286,26 +332,22 @@
                                 4
                             ]
                         ]
-                    },
-                    "documentation/test-page-3/": {
-                        "position": [
-                            [
-                                0,
-                                4
-                            ]
-                        ]
                     }
                 },
                 "text": {
-                    "documentation/test-page-2/": {
+                    "documentation/test-page-3/": {
                         "position": [
                             [
                                 0,
                                 4
+                            ],
+                            [
+                                12,
+                                4
                             ]
                         ]
                     },
-                    "documentation/test-page-3/": {
+                    "documentation/test-page-2/": {
                         "position": [
                             [
                                 0,
@@ -319,7 +361,7 @@
         [
             "this",
             {
-                "_index": 3,
+                "_index": 6,
                 "title": {},
                 "text": {
                     "documentation/test-page-1/": {

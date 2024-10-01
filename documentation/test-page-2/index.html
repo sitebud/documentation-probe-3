@@ -64,7 +64,7 @@
                         <sl-button 
                             class="nav_button  current " 
                             size="medium" 
-                            href="documentation/test-page-1/"
+                            href="documentation/test-page-3/"
                         >
                             Documentation
                         </sl-button>
@@ -80,6 +80,17 @@
                             
                             
                                 <sl-tree class="tree__with_lines" selection="leaf">
+                                    
+                                
+                                    
+                                        <sl-tree-item 
+                                            id="I8XhZkewoCXJf9lfXUX9U" 
+                                            style="--indent-level: 0"
+                                            
+                                            class="leaf"
+                                        >
+                                            <a href="documentation/test-page-3/">Test Page 3</a>
+                                        </sl-tree-item>                                        
                                     
                                 
                                     
@@ -101,17 +112,6 @@
                                             class="leaf"
                                         >
                                             <a href="documentation/test-page-2/">Test Page 2</a>
-                                        </sl-tree-item>                                        
-                                    
-                                
-                                    
-                                        <sl-tree-item 
-                                            id="I8XhZkewoCXJf9lfXUX9U" 
-                                            style="--indent-level: 0"
-                                            
-                                            class="leaf"
-                                        >
-                                            <a href="documentation/test-page-3/">Test Page 3</a>
                                         </sl-tree-item>                                        
                                     
                                 
@@ -152,7 +152,7 @@
                                 <sl-button 
                                     class="nav_button  current " 
                                     size="medium" 
-                                    href="documentation/test-page-1/"
+                                    href="documentation/test-page-3/"
                                 >
                                     Documentation
                                 </sl-button>
@@ -208,6 +208,17 @@
                                 
                                     
                                         <sl-tree-item 
+                                            id="I8XhZkewoCXJf9lfXUX9U" 
+                                            style="--indent-level: 0"
+                                            
+                                            class="leaf"
+                                        >
+                                            <a href="documentation/test-page-3/">Test Page 3</a>
+                                        </sl-tree-item>                                        
+                                    
+                                
+                                    
+                                        <sl-tree-item 
                                             id="K4P3HCX1nWZN8HzyhtxEL" 
                                             style="--indent-level: 0"
                                             
@@ -225,17 +236,6 @@
                                             class="leaf"
                                         >
                                             <a href="documentation/test-page-2/">Test Page 2</a>
-                                        </sl-tree-item>                                        
-                                    
-                                
-                                    
-                                        <sl-tree-item 
-                                            id="I8XhZkewoCXJf9lfXUX9U" 
-                                            style="--indent-level: 0"
-                                            
-                                            class="leaf"
-                                        >
-                                            <a href="documentation/test-page-3/">Test Page 3</a>
                                         </sl-tree-item>                                        
                                     
                                 
@@ -271,19 +271,7 @@
                                 </div>
                             </a>
                         
-                        
-                            <a href="documentation/test-page-3/" class="column right-column" title="Test Page 3">
-                                <div class="label">
-                                    <div class="title">NEXT</div>
-                                    <div class="line-clamp-1">
-                                        Test Page 3
-                                    </div>
-                                </div>
-                                <div>
-                                    <sl-icon name="chevron-right"></sl-icon>
-                                </div>
-                            </a>
-                        
+                         <div></div> 
                     </div>
                 </div>
             </article>
@@ -305,7 +293,19 @@
         </div>
         <footer>
             
-                <span>Year &copy; Company Name</span>    
+                <style>
+   .wrapper {
+      display: flex;
+      width: 100%;
+      border: 1px solid red;
+      padding: 1em;
+
+   }
+</style>
+<div class="wrapper" style="color: red">
+
+    <span>Year &copy; Company Name Test</span>
+</div>    
             
         </footer>
     </div>
@@ -339,7 +339,7 @@
     preInitTree();
     await initPage();
     await initTheme();
-    await initSearch('1727760484593');
+    await initSearch('1727767829817');
     document.documentElement.style.visibility = 'visible';
     document.documentElement.style.opacity = '1';
     initToc();
