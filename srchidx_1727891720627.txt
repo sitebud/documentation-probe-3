@@ -181,13 +181,13 @@
         [
             "dfsdjh",
             {
-                "_index": 3,
+                "_index": 4,
                 "title": {},
                 "text": {
                     "documentation/test-page-3/": {
                         "position": [
                             [
-                                17,
+                                24,
                                 6
                             ]
                         ]
@@ -290,13 +290,13 @@
         [
             "sdfsdf",
             {
-                "_index": 4,
+                "_index": 3,
                 "title": {},
                 "text": {
                     "documentation/test-page-3/": {
                         "position": [
                             [
-                                25,
+                                12,
                                 6
                             ]
                         ]
@@ -342,7 +342,7 @@
                                 4
                             ],
                             [
-                                12,
+                                19,
                                 4
                             ]
                         ]

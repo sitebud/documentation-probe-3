@@ -1,7 +1,7 @@
 {
     "documentation/test-page-3/": {
         "title": "Test Page 3",
-        "text": "Test Page 3 test dfsdjh  sdfsdf"
+        "text": "Test Page 3 sdfsdf test dfsdjh"
     },
     "documentation/test-page-1/": {
         "title": "Test Page 1",

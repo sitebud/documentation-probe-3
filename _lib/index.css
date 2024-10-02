@@ -2666,6 +2666,7 @@ video {
             display: block;
         }
     }footer {
+    position: relative;
     max-width: var(--pm-max-width);
     background-color: var(--td-footer-background-color);
     color: var(--td-footer-color);
